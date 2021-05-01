@@ -1,6 +1,6 @@
 1. Company name, etc.
 
-Name: Line-like notepad app For contact information, please refer to the contact information below.
+Name: PhotoMemo - SNS Style Memo app For contact information, please refer to the contact information below.
 
 2. User information acquired The user information acquired by this application is as follows.
 
